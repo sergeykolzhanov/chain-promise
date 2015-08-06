@@ -1,0 +1,19 @@
+{
+  "name": "promise-chain",
+  "description": "Chained promises",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sergey Kolzhanov",
+    "email": "sergeykolzhanov@gmail.com"
+  },
+  "homepage": "https://github.com/sergeykolzhanov/chain-promise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergeykolzhanov/chain-promise"
+  },
+  "dependencies": {
+    "promise": "*"
+  },
+  "main": "promise-chain",
+  "licence": "MIT"
+}
